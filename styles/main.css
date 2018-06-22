@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F8F9F9 ;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+.tittle{
+    width: 90%;    
+    margin-left: 5%;
+    margin-top: 5px;
+    padding-left: 20px;
+    float: left;
+    border-radius: 10px;
+    text-align: center;
+    background-color: black;    
+}
+
+.tittle p {
+    font-size: 20px;
+    color: chartreuse;    
+}
+
+.title_section{
+    color:black;
+    width: 42%;
+    margin-left: 5%;
+    margin-top: 5px;
+    height: 50px;
+    padding-left: 5px;    
+    float: left;
+    border-radius: 10px;    
+}
+
+
+.pnlleft{
+    width: 44%;
+    margin-left: 5%;
+    margin-top: 5px;
+    height: 500px;
+    padding-left: 5px;    
+    float: left;
+    border-radius: 10px;
+    background-color: beige;
+}
+
+li:hover{
+    color: white;
+    font-stretch: expanded;
+    background-color: blue;
+}
+
+.pnlright{
+    width: 44%;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-left: 5px;
+    height: 500px;
+    float: left;
+    border-radius: 10px;
+    background: #EAECEE;
+    overflow: auto;
+}
+
+[tag="1"]{
+    color: brown;   
+}
+
+[tag="2"]{
+    color: blueviolet;   
+}
+[tag="3"]{
+    color:chocolate;   
+}
+[tag="4"]{
+    color:coral;   
+}
+[tag="5"]{
+    color: darkgoldenrod;   
+}
+[tag="6"]{
+    color: darkorange;   
+}
+[tag="7"]{
+    color: fuchsia;   
+}
